@@ -12,3 +12,7 @@ base64 = "0.22"
 [[example]]
 name = "basic"
 path = "examples/basic.rs"
+
+[[example]]
+name = "main_section"
+path = "examples/main_section.rs"

@@ -9,4 +9,4 @@ mod html;
 mod report;
 
 pub use asset::{data_uri, Mime};
-pub use report::{Block, Report};
+pub use report::{Block, Report, TargetCard, TimelineEvent, TimelineKind};
